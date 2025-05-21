@@ -231,7 +231,7 @@ h1, h2, h3 {
 .logo {
   display: block;
   margin: 40px auto 20px auto;
-  max-width: 220px;
+  max-width: 30px;
   height: auto;
 }
 
